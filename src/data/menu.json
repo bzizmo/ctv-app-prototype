@@ -1,0 +1,9 @@
+[
+    { "id": "home", "label": "Home" },
+    { "id": "live", "label": "Live TV" },
+    { "id": "movies", "label": "Movies" },
+    { "id": "series", "label": "Series" },
+    { "id": "search", "label": "Search" },
+    { "id": "settings", "label": "Settings" }
+]
+  

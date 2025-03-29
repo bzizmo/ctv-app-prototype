@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:tizen="http://tizen.org/ns/widgets"
+        id="http://myctvapp.local"
+        version="1.0.0"
+        viewmodes="maximized">
+  <access origin="*" subdomains="true" />
+  <content src="index.tizen.html" />
+  <name>MyCTVApp</name>
+  <tizen:application id="myctvapp01.main" package="myctvapp01" required_version="2.3" />
+  <tizen:profile name="tv-samsung-public" />
+  <feature name="http://tizen.org/feature/screen.size.normal.1080.1920" />
+  <tizen:setting screen-orientation="landscape" />
+</widget>

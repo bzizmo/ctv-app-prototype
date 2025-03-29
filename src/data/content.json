@@ -1,0 +1,156 @@
+{
+    "hero": [
+        {
+            "id": "hero1",
+            "title": "Movie 1",
+            "description": "Description for Movie 1",
+            "image": "./assets/movie1.svg"
+        },
+        {
+            "id": "hero2",
+            "title": "Movie 2",
+            "description": "Description for Movie 2",
+            "image": "./assets/movie2.svg"
+        },
+        {
+            "id": "hero3",
+            "title": "Movie 3",
+            "description": "Description for Movie 3",
+            "image": "./assets/movie3.svg"
+        },
+        {
+            "id": "hero4",
+            "title": "Movie 4",
+            "description": "Description for Movie 4",
+            "image": "./assets/movie4.svg"
+        },
+        {
+            "id": "hero5",
+            "title": "Movie 5",
+            "description": "Description for Movie 5",
+            "image": "./assets/movie5.svg"
+        }
+    ],
+    "rails": [
+        {
+            "title": "Continue Watching",
+            "items": [
+                {
+                    "id": "c1",
+                    "title": "Movie 6",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "c2",
+                    "title": "Movie 7",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "c3",
+                    "title": "Movie 8",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "c4",
+                    "title": "Movie 9",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "c5",
+                    "title": "Movie 10",
+                    "thumbnail": "./assets/thumbnail.svg"
+                }
+            ]
+        },
+        {
+            "title": "Trending Now",
+            "items": [
+                {
+                    "id": "t1",
+                    "title": "Movie 11",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "t2",
+                    "title": "Movie 12",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "t3",
+                    "title": "Movie 13",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "t4",
+                    "title": "Movie 14",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "t5",
+                    "title": "Movie 15",
+                    "thumbnail": "./assets/thumbnail.svg"
+                }
+            ]
+        },
+        {
+            "title": "Most Liked",
+            "items": [
+                {
+                    "id": "m1",
+                    "title": "Movie 16",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "m2",
+                    "title": "Movie 17",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "m3",
+                    "title": "Movie 18",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "m4",
+                    "title": "Movie 19",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "m5",
+                    "title": "Movie 20",
+                    "thumbnail": "./assets/thumbnail.svg"
+                }
+            ]
+        },
+        {
+            "title": "New Releases",
+            "items": [
+                {
+                    "id": "n1",
+                    "title": "Movie 21",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "n2",
+                    "title": "Movie 22",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "n3",
+                    "title": "Movie 23",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "n4",
+                    "title": "Movie 24",
+                    "thumbnail": "./assets/thumbnail.svg"
+                },
+                {
+                    "id": "n5",
+                    "title": "Movie 25",
+                    "thumbnail": "./assets/thumbnail.svg"
+                }
+            ]
+        }
+    ]
+}
